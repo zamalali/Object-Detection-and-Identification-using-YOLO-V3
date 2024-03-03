@@ -1,4 +1,4 @@
-# Object Detection and Identification using YOLO V3
+# Object Detection and Identification using YOLO V3 🔎
 
 This project utilizes the YOLO V3 algorithm, a powerful convolutional neural network for real-time object detection. YOLO V3 is capable of identifying multiple objects in images and videos with high accuracy and speed.
 
